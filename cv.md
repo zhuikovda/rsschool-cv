@@ -14,3 +14,14 @@ I want to change profession, because in my current profession I stopped gaining 
 ## Skills:
 * HTML;
 * CSS;
+* JavaScript;
+* Git/GitHub;
+* Figma;
+* Browser Developer Tools.
+
+## Code example:
+
+function toBinary(n){
+    return(Math.abs(n.toString(2))) ;
+  }
+toBinary(-25);
