@@ -18,10 +18,24 @@ I want to change profession, because in my current profession I stopped gaining 
 * Git/GitHub;
 * Figma;
 * Browser Developer Tools.
-
+***
 ## Code example:
 
-function toBinary(n){
-    return(Math.abs(n.toString(2))) ;
-  }
+```
+function toBinary(n){  
+    return(Math.abs(n.toString(2)));  
+  }  
 toBinary(-25);
+```
+***
+## Education:
+1. Mozyr State Pedagogical University named after I.P.Shamyakin;
+2. Udemy (courses: HTML, CSS, JavaScript);
+3.	HTML academy (simulators).
+***
+## Experience:
+No experience.
+***
+## English:
+Streamline testing: (CEFR) A2.  
+EF SET test: (CEFR) B1.
